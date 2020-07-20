@@ -5,7 +5,7 @@
   <color name="material_green_700">#FF4081</color>
   <color name="material_blue_grey_300">#909dae</color>
   <color name="material_blue_grey_500">#6c88ad</color>
-  <color name="material_blue_grey_700">#d9507e</color>
+  <color name="material_blue_grey_700">#737373</color>
   <color name="material_accent_300">@color/material_blue_grey_300</color>
   <color name="material_accent_500">@color/material_blue_grey_500</color>
   <color name="material_accent_700">@color/material_blue_grey_700</color>
